@@ -1,36 +1,37 @@
 ,Ticker Symbol,Ticker Name,PE ratio,Profitability,Leverage,Operating efficiency,Total score
-0,CLN.SI,APAC Realty Limited,18.15,5,2,0,7
-1,A30.SI,Aspial Corporation Limited,12.89,5,2,0,7
-2,B61.SI,Bukit Sembawang Estates Limited,7.08,5,2,1,8
-3,BTE.SI,Bund Center Investment Ltd,44.23,3,2,0,5
-4,OU8.SI,Centurion Corporation Limited,16.5,3,0,0,3
-5,C29.SI,Chip Eng Seng Corporation Ltd,0,2,1,0,3
-6,C33.SI,Chuan Hup Holdings Limited,12.37,2,2,1,5
-7,C09.SI,City Developments Limited,0,1,2,0,3
+0,CLN.SI,APAC Realty Limited,11.6,5,2,0,7
+1,A30.SI,Aspial Corporation Limited,19.17,5,2,0,7
+2,B61.SI,Bukit Sembawang Estates Limited,7.87,5,2,1,8
+3,BTE.SI,Bund Center Investment Ltd,44.62,3,2,0,5
+4,OU8.SI,Centurion Corporation Limited,55.0,3,0,0,3
+5,C29.SI,Chip Eng Seng Corporation Ltd,0.0,2,1,0,3
+6,C33.SI,Chuan Hup Holdings Limited,12.11,4,2,0,6
+7,C09.SI,City Developments Limited,0.0,1,2,0,3
 8,ADN.SI,First Sponsor Group Limited,15.06,3,2,1,6
-9,TQ5.SI,Frasers Property Limited,20.34,2,1,1,4
-10,586.SI,Global Dragon Limited,0,3,1,1,5
-11,5PC.SI,Goodland Group Limited,0,2,2,1,5
-12,F17.SI,GuocoLand Limited,41.28,5,1,0,6
-13,5DP.SI,Heeton Holdings Limited,0,0,1,1,2
-14,5JK.SI,Hiap Hoe Limited,0,2,1,0,3
-15,H13.SI,Ho Bee Land Limited,13.69,2,1,1,4
-16,H30.SI,Hong Fok Corporation Limited,0,2,2,1,5
-17,H78.SI,Hongkong Land Holdings Limited,0,2,2,0,4
-18,H19.SI,Hwa Hong Corporation Limited,33,3,1,0,4
-19,41O.SI,LHN Limited,5.67,5,2,1,8
-20,LJ3.SI,OUE Limited,0,2,2,1,5
-21,5UX.SI,Oxley Holdings Limited,0,5,2,1,8
-22,OYY.SI,PropNex Limited,24.3,5,2,2,9
-23,E8Z.SI,Roxy-Pacific Holdings Limited,0,2,2,0,4
-24,5IC.SI,Sing Holdings Limited,12.67,1,1,0,2
-25,U06.SI,Singapore Land Group Limited,43.17,3,1,0,4
-26,5H0.SI,SingHaiyi Group Ltd.,0,2,1,1,4
-27,AWI.SI,Thakral Corporation Ltd,10.3,1,2,0,3
-28,T24.SI,Tuan Sing Holdings Limited,9.7,5,2,1,8
-29,CHJ.SI,Uni-Asia Group Limited,0,2,2,0,4
-30,EH5.SI,United Overseas Australia Limited,10.45,5,2,1,8
-31,U14.SI,UOL Group Limited,443.75,3,2,0,5
-32,W05.SI,Wing Tai Holdings Limited,53.71,5,2,1,8
-33,Z25.SI,Yanlord Land Group Limited,4.03,3,2,1,6
-34,Z59.SI,Yoma Strategic Holdings Ltd.,0,2,2,0,4
+9,TQ5.SI,Frasers Property Limited,5.27,2,1,1,4
+10,586.SI,Global Dragon Limited,0.0,1,2,0,3
+11,5PC.SI,Goodland Group Limited,0.0,2,2,1,5
+12,F17.SI,GuocoLand Limited,11.93,5,1,0,6
+13,5DP.SI,Heeton Holdings Limited,0.0,0,1,1,2
+14,5JK.SI,Hiap Hoe Limited,0.0,2,1,0,3
+15,H13.SI,Ho Bee Land Limited,12.45,2,1,1,4
+16,H30.SI,Hong Fok Corporation Limited,0.0,2,2,1,5
+17,H78.SI,Hongkong Land Holdings Limited,0.0,2,2,0,4
+18,H19.SI,Hwa Hong Corporation Limited,34.0,3,1,0,4
+19,41O.SI,LHN Limited,5.58,5,2,1,8
+20,LJ3.SI,OUE Limited,0.0,2,2,1,5
+21,5UX.SI,Oxley Holdings Limited,0.0,5,2,1,8
+22,OYY.SI,PropNex Limited,24.43,5,2,2,9
+23,E8Z.SI,Roxy-Pacific Holdings Limited,0.0,2,2,0,4
+24,A26.SI,Sinarmas Land Limited,11.04,3,2,0,5
+25,5IC.SI,Sing Holdings Limited,9.51,1,1,0,2
+26,U06.SI,Singapore Land Group Limited,43.17,3,1,0,4
+27,5H0.SI,SingHaiyi Group Ltd.,0.0,2,1,1,4
+28,AWI.SI,Thakral Corporation Ltd,10.1,1,2,0,3
+29,T24.SI,Tuan Sing Holdings Limited,9.7,5,2,1,8
+30,CHJ.SI,Uni-Asia Group Limited,0.0,2,2,0,4
+31,EH5.SI,United Overseas Australia Limited,10.45,5,2,1,8
+32,U14.SI,UOL Group Limited,449.37,3,2,0,5
+33,W05.SI,Wing Tai Holdings Limited,53.71,5,2,1,8
+34,Z25.SI,Yanlord Land Group Limited,3.99,3,2,1,6
+35,Z59.SI,Yoma Strategic Holdings Ltd.,0.0,2,2,0,4
